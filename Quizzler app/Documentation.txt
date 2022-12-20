@@ -1,0 +1,17 @@
+Challenge 1
+
+1. Modify the data.py file (don't change the main.py).
+2. Make a get() request to fetch 10 True of False questions.
+3. Parse the JSON response and replace the value of question_data(don't change the variable name)
+Hint: create a Python dictionary for the amount and type parameters.
+
+Challenge 2
+Create two new methode that you can add a command to the buttons. The methode need to call check_answer()
+from the quiz_brain and pass over the string 'True' or 'False'. This should print some feedback to the  console.
+
+Challenge 3
+
+Change canvas' background color to green if is_right is True and change is to red if is_right is False
+
+When a button has been pressed, display the next question after 1000 milliseconds, but make sure to change
+background back to white
