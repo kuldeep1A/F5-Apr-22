@@ -13,6 +13,7 @@ if we want to send a meassage through python program in email this project more 
 @4. Create Kanye Quotes project using Python
 daily use this app for read new Quotes 
 
+
 @5. Create Quizzler app project using Python
 Next on higher GUI app quiz in better way
 This a quiz game wriiten in python which helps in increasing our general knowledge. It fetches true/false type question from Open trivia DB Api. It dislays questions to player in the from of flash cards using tkinter package. The current and final score is also displayed.
